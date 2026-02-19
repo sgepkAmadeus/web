@@ -1,2 +1,2 @@
 # Hi
-[AERub_Call.pdf]{a}
+[AERub_Call.pdf]{asset/pdf/AERub_Call.pdf}
